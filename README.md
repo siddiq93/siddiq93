@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siddiq93
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, R, SQL, 
+- 👀 I’m interested in Data Analysis and Science
+- 🌱 I’m currently learning Python, R, SQL, Excel, Tableau 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email skhan510@yahoo.com, phone number 510-331-2527
 
