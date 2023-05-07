@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiddiqK
+- 👋 Hi, I’m @Siddiq_Khan
 - 👀 I’m interested in Data Analysis and Science
 - 🌱 I’m currently learning Python, R, SQL, Excel, Tableau 
 - 💞️ I’m looking to collaborate on ...
